@@ -1,0 +1,2 @@
+l1=["param","mukul","shivam"]
+print(l1)
